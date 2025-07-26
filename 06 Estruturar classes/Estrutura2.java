@@ -1,6 +1,6 @@
 public class Estrutura2 {
 
-    void metodo1() {
+    public static void main(String[] args) {
         System.out.println("Método 1");
     }   
 }
